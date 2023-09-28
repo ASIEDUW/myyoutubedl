@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="ic1">sanload/icon1.png</file>
+<file alias="ic2">sanload/icon2.png</file>
+<file alias="ic3">sanload/settings.png</file>
+<file alias="ic4">sanload/add.png</file>
+<file alias="ic5">sanload/kinkon.ico</file>
+<file alias="ic6">sanload/win.ico</file>
+</qresource>
+</RCC>
